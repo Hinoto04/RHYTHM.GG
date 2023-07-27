@@ -21,6 +21,7 @@
 - [KiRist](https://github.com/KiRist-code)
 - [Astral31](https://github.com/Astral31)
 - [3TierFishery](https://github.com/3TierFishery)
+- [dihydrogenmonoxide11](https://github.com/dihydrogenmonoxide11)
 
 ## 라이센스
 - This project is licensed under the MIT License
