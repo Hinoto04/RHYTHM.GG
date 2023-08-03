@@ -1,3 +1,10 @@
-h1 {
-    font-size: 2em;
+
+.welcome {
+    margin-top: 1em;
+    font-size: 5em;
+    text-align: center;
+}
+
+.description {
+    font-size: 1.2em;
 }

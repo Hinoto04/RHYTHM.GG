@@ -1,8 +1,14 @@
 import React from "react";
 
+import "./Headers.css"
+
 function Headers() {
     return (
-        <h1>HEADERS</h1>
+        <div class="header d-flex">
+            <div class="햄버거버튼상자"></div>
+            <div class="로고상자"></div>
+            <div class="로그인상자"></div>
+        </div>
     );
 }
 
