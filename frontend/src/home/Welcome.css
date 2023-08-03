@@ -1,10 +1,37 @@
-
-.welcome {
-    margin-top: 1em;
-    font-size: 5em;
-    text-align: center;
+.flex-column{
+    width: 100%;
 }
 
-.description {
-    font-size: 1.2em;
+.banner{
+    background-color:black;
+    padding: 70px;
+    width: 100%;
+}
+
+.introduction{
+    font-weight: bold;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 1em;
+    color: white;
+}
+
+.intro-description{
+    text-align: center;
+    font-size: 1.1em;
+    color:white;
+    margin-bottom: 10em;
+}
+
+.banner-button-css{
+    display: flex;
+    justify-content: center;
+}
+
+.start-button{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
 }
