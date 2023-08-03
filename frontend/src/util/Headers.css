@@ -1,6 +1,40 @@
 
 .header {
-    background-color: silver;
+    background-color: white;
     text-align: center;
     font-size: 2em;
+    height: 128px;
+    box-shadow: 0 3px 6px black;
+}
+
+.header > div {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.햄버거버튼상자, .로그인상자 {
+    width: 20%
+}
+
+.로고상자 {
+    width: 60%;
+}
+
+.로고이미지 {
+    width: 60%;
+    max-width: 280px;
+}
+
+.햄버거버튼이미지 {
+    width: 60%;
+    max-width: 48px;
+}
+
+.로그인상자 > a {
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 10px;
 }
